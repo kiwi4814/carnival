@@ -1,0 +1,7 @@
+server:
+  port: 9998
+spring:
+  datasource:
+    url: jdbc:mysql://192.168.50.100:3307/carnival
+    username: carnival
+    password: '7LkjMzRdhMh^yAhc'
