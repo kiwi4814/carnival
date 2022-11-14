@@ -26,6 +26,8 @@
         <module>carnival-business</module>
         <module>carnival-common</module>
         <module>carnival-starter</module>
+        <module>carnival-base/carnival-suite-redis</module>
+        <module>carnival-suite</module>
     </modules>
 
     <dependencies>
