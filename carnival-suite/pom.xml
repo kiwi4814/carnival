@@ -10,6 +10,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>carnival-suite</artifactId>
+    <packaging>pom</packaging>
 
     <modules>
         <module>carnival-suite-redis</module>
